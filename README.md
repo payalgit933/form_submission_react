@@ -1,2 +1,12 @@
+# REACT + VITE
 # form_submission_react
-This is a simple React form project built using Vite. It captures user input such as first name, last name, address, email, contact number, and gender using useState. Upon submission, the data is printed to the console. It also includes a reset functionality to clear the form fields.
+This is a basic form built with **React** and **Vite**. The form collects:
+
+- First Name
+- Last Name
+- Address
+- Email
+- Contact Number
+- Gender (Radio Buttons)
+
+## 🚀 Getting Started
